@@ -1,0 +1,23 @@
+{
+  "setup": {
+    "prefix": ["note", "template"],
+    "body": [
+      "\\documentclass{article}",
+      "\\usepackage{fullpage}",
+
+      "\\title{}",
+      "\\author{Tejas Komawar}",
+      "\\begin{document}",
+      "\\maketitle",
+      "\\begin{center}\\begin{Huge}\\end{Huge}",
+      "\\tableofcontents",
+      "\\vspace{1cm}",
+      "\\end{center}",
+      "\\newpage",
+      "\\section{}",
+      "\\end{document}",
+      ""
+    ],
+    "description": "Generic note template"
+  }
+}
